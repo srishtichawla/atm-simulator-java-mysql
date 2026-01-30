@@ -19,4 +19,29 @@ A desktop-based ATM Simulator application developed using **Java (Swing)** and *
 1. Open MySQL
 2. Create a database (e.g., `bank_management_system`)
 3. Run the SQL script:
-# atm-simulator-java-mysql
+
+## Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Main Menu
+![Menu](screenshots/menu.png)
+
+### Balance Enquiry
+![Balance](screenshots/balance.png)
+
+### Withdrawal
+![Withdraw](screenshots/withdraw.png)
+
+### Deposit
+![Deposit](screenshots/deposit.png)
+
+## How to Run
+1. Clone the repository
+2. Set up MySQL database using the provided SQL file
+3. Update database credentials in `Conn.java`
+4. Compile and run the Java application
+
+---
+
